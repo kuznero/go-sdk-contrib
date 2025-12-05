@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/open-feature/go-sdk-contrib/compare/tests/flagd/v1.6.0...tests/flagd/v1.6.1) (2025-12-05)
+
+
+### 🐛 Bug Fixes
+
+* **flagd:** do not retry for certain status codes ([#756](https://github.com/open-feature/go-sdk-contrib/issues/756)) ([#799](https://github.com/open-feature/go-sdk-contrib/issues/799)) ([e01a99e](https://github.com/open-feature/go-sdk-contrib/commit/e01a99ed8a0b54a2c09ed9c2aa4f5cd658769e78))
+
 ## [1.6.0](https://github.com/open-feature/go-sdk-contrib/compare/tests/flagd/v1.5.1...tests/flagd/v1.6.0) (2025-11-27)
 
 
